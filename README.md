@@ -1,7 +1,3 @@
-Here's the updated version:
-
----
-
 # Hi, I'm Emmanuel Nyang'au! 👋
 
 I am a backend software engineer with a strong passion for media production and creative solutions. My journey intertwines technology and the arts, bringing innovative projects to life.
